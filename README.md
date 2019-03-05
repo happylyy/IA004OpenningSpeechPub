@@ -1,6 +1,6 @@
 # IA004OpenningSpeechPub 信分四期开学典礼老阳的发言
 
-#任务分配
+# 任务分配
 
 稿件1 对套利的套利：七重信息分析	@刘宇旸
 稿件2 生活无处不“套利”			@蔚哥哥 @Proudmoore
@@ -9,17 +9,17 @@
 
 
 
-#交付格式
+# 交付格式
 
 *.md
 
-#交付时间
+# 交付时间
 
 2019/3/6 22:42
 
 
 
-#整理的要点
+# 整理的要点
 
 1.依据演讲稿、切分组块；
 
@@ -35,13 +35,13 @@
 
 
 
-#范文
+# 范文
 
 https://github.com/kiaorahao/awesome_tools/blob/master/20190303_cognitive_scale_launch_yangzhiping.md
 
 
 
-#参考
+# 参考
 
 第一段语音：
 
@@ -52,8 +52,14 @@ https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SAT8e0c561c224
 https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SATea22e3f8b69647c7971ff1fae924543d
 
 
-成果物：
-稿件1 对套利的套利：七重信息分析	@刘宇旸
-稿件2 生活无处不“套利”			@蔚哥哥 @Proudmoore
-稿件3 好的套利习惯				@王竹子 @victor
-稿件4 阳老师的答疑				@王梦浩
+# 成果物：
+稿件1 对套利的套利：七重信息分析	
+@刘宇旸
+稿件2 生活无处不“套利”			
+@蔚哥哥 
+@Proudmoore
+稿件3 好的套利习惯				
+@王竹子 
+@victor
+稿件4 阳老师的答疑				
+@王梦浩
