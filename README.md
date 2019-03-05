@@ -53,13 +53,23 @@ https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SATea22e3f8b69
 
 
 # 成果物：
+
 稿件1 对套利的套利：七重信息分析	
-@刘宇旸
-稿件2 生活无处不“套利”			
+
+[@刘宇旸](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E8%AE%B2%E7%A8%BF1_%E5%AF%B9%E5%A5%97%E5%88%A9%E7%9A%84%E5%A5%97%E5%88%A9%EF%BC%9A%E4%B8%83%E9%87%8D%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90.md)
+
+稿件2 生活无处不“套利”		
+
 @蔚哥哥 
+
 @Proudmoore
+
 稿件3 好的套利习惯				
+
 @王竹子 
+
 @victor
+
 稿件4 阳老师的答疑				
+
 @王梦浩
