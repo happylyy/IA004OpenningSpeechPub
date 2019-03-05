@@ -1,2 +1,59 @@
-# IA004OpenningSpeechPub
-信分四期老阳的发言记录
+# IA004OpenningSpeechPub 信分四期开学典礼老阳的发言
+
+#任务分配
+
+稿件1 对套利的套利：七重信息分析	@刘宇旸
+稿件2 生活无处不“套利”			@蔚哥哥 @Proudmoore
+稿件3 好的套利习惯				@王竹子 @victor
+稿件4 阳老师的答疑				@王梦浩
+
+
+
+#交付格式
+
+*.md
+
+#交付时间
+
+2019/3/6 22:42
+
+
+
+#整理的要点
+
+1.依据演讲稿、切分组块；
+
+2.修正速记稿的错误；
+
+3.增补 keynote 中的图片在恰当位置；
+
+4.将 keynote 中的文字为主的图片，将文字提取出来，放在正文中；
+
+5.对开智的黑话（一些术语）进行解释或增加案例说明（可以从我的博客检索）;假设读者是第一次看开智的公众号，并不理解开智的黑话。
+
+6.最后，使用写匠修正错别字，润色文字。写匠是开智发布的人工智能辅助写作软件：http://www.aiwriter.cn
+
+
+
+#范文
+
+https://github.com/kiaorahao/awesome_tools/blob/master/20190303_cognitive_scale_launch_yangzhiping.md
+
+
+
+#参考
+
+第一段语音：
+
+https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SAT8e0c561c224e408d92f166416118e868
+
+第二段语音：
+
+https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SATea22e3f8b69647c7971ff1fae924543d
+
+
+成果物：
+稿件1 对套利的套利：七重信息分析	@刘宇旸
+稿件2 生活无处不“套利”			@蔚哥哥 @Proudmoore
+稿件3 好的套利习惯				@王竹子 @victor
+稿件4 阳老师的答疑				@王梦浩
