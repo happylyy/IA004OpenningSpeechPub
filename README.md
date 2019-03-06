@@ -66,7 +66,7 @@ https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SATea22e3f8b69
 
 稿件3 好的套利习惯				
 
-@王竹子 
+[@王竹子](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%AD%94%E7%96%91%E8%AE%B2%E7%A8%BF-%E5%A5%BD%E7%9A%84%E5%A5%97%E5%88%A9%E4%B9%A0%E6%83%AF.md)
 
 @victor
 
