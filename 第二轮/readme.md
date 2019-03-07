@@ -7,13 +7,13 @@
 
 # 互相校对：
 
-Part1_对套利的套利:七重信息分析.md  by    @王梦浩
+[Part1_对套利的套利:七重信息分析.md]()  by    @王梦浩
 
-Part2_生活无处不“套利”.md          by   第一轮校对@蔚哥哥 第二轮校对@Proudmoore
+[Part2_生活无处不“套利”.md]()          by   第一轮校对@蔚哥哥 第二轮校对@Proudmoore
 
-Part3_好的套利习惯.md              by  第一轮校对@王竹子 第二轮校对 @victor
+[Part3_好的套利习惯.md]()              by  第一轮校对@王竹子 第二轮校对 @victor
 
-Part4_阳老师的答疑.md              by   @刘宇旸
+[Part4_阳老师的答疑.md]()              by   @刘宇旸
 
 # DeadLine
 TBD
