@@ -67,7 +67,7 @@ https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SATea22e3f8b69
 
 [@蔚哥哥](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%94%9F%E6%B4%BB%E6%97%A0%E5%A4%84%E4%B8%8D%E5%A5%97%E5%88%A9%E6%95%B4%E7%90%86%E7%A8%BF.md) 
 
-[@Proudmoore](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E8%AE%B2%E7%A8%BF3%20%E7%94%9F%E6%B4%BB%E6%97%A0%E5%A4%84%E4%B8%8D%E5%A5%97%E5%88%A9.md)
+[@Proudmoore](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E8%AE%B2%E7%A8%BF2%20%E7%94%9F%E6%B4%BB%E6%97%A0%E5%A4%84%E4%B8%8D%E5%A5%97%E5%88%A9.md)
 
 稿件3 好的套利习惯				
 
