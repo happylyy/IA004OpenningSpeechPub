@@ -49,12 +49,13 @@ https://github.com/kiaorahao/awesome_tools/blob/master/20190303_cognitive_scale_
 参考
 
 第一段语音：
-
 https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SAT8e0c561c224e408d92f166416118e868
 
 第二段语音：
-
 https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SATea22e3f8b69647c7971ff1fae924543d
+
+现场发言记录：
+https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/chat.txt
 
 
 ### 成果物：
