@@ -5,6 +5,7 @@
 
 
 
-changelog:
-1. created by 刘宇旸
-2. revised by xxx
+# Changelog
+    V0.1-20190307：created by 刘宇旸
+    V0.2-20190104：revised by xxx
+
