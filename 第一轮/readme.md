@@ -57,21 +57,21 @@ https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/chat.txt
 
 稿件1 对套利的套利：七重信息分析	
 
-[@刘宇旸](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E8%AE%B2%E7%A8%BF1_%E5%AF%B9%E5%A5%97%E5%88%A9%E7%9A%84%E5%A5%97%E5%88%A9%EF%BC%9A%E4%B8%83%E9%87%8D%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90.md)
+[@刘宇旸](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%AC%AC%E4%B8%80%E8%BD%AE/%E8%AE%B2%E7%A8%BF1_%E5%AF%B9%E5%A5%97%E5%88%A9%E7%9A%84%E5%A5%97%E5%88%A9%EF%BC%9A%E4%B8%83%E9%87%8D%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90.md)
 
 稿件2 生活无处不“套利”		
 
-[@蔚哥哥](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%94%9F%E6%B4%BB%E6%97%A0%E5%A4%84%E4%B8%8D%E5%A5%97%E5%88%A9%E6%95%B4%E7%90%86%E7%A8%BF.md) 
+[@蔚哥哥](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%AC%AC%E4%B8%80%E8%BD%AE/%E8%AE%B2%E7%A8%BF2%20%E7%94%9F%E6%B4%BB%E6%97%A0%E5%A4%84%E4%B8%8D%E5%A5%97%E5%88%A9.md) 
 
-[@Proudmoore](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E8%AE%B2%E7%A8%BF2%20%E7%94%9F%E6%B4%BB%E6%97%A0%E5%A4%84%E4%B8%8D%E5%A5%97%E5%88%A9.md)
+[@Proudmoore](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%AC%AC%E4%B8%80%E8%BD%AE/%E8%AE%B2%E7%A8%BF2%20%E7%94%9F%E6%B4%BB%E6%97%A0%E5%A4%84%E4%B8%8D%E5%A5%97%E5%88%A9.md)
 
 稿件3 好的套利习惯				
 
-[@王竹子](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%AD%94%E7%96%91%E8%AE%B2%E7%A8%BF-%E5%A5%BD%E7%9A%84%E5%A5%97%E5%88%A9%E4%B9%A0%E6%83%AF.md)
+[@王竹子](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%AC%AC%E4%B8%80%E8%BD%AE/%E7%AD%94%E7%96%91%E8%AE%B2%E7%A8%BF-%E5%A5%BD%E7%9A%84%E5%A5%97%E5%88%A9%E4%B9%A0%E6%83%AF.md)
 
-[@victor](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E5%A5%BD%E7%9A%84%E5%A5%97%E5%88%A9%E4%B9%A0%E6%83%AF.md)
+[@victor](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%AC%AC%E4%B8%80%E8%BD%AE/%E5%A5%BD%E7%9A%84%E5%A5%97%E5%88%A9%E4%B9%A0%E6%83%AF.md)
 
 稿件4 阳老师的答疑				
 
-[@王梦浩](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E8%AE%B2%E7%A8%BF4_IA004%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E7%AD%94%E7%96%91%E6%95%B4%E7%90%86.md)
+[@王梦浩](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%AC%AC%E4%B8%80%E8%BD%AE/%E8%AE%B2%E7%A8%BF4_IA004%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E7%AD%94%E7%96%91%E6%95%B4%E7%90%86.md)
 
