@@ -9,7 +9,17 @@
 
 1. 减少“的”等助词的使用；
 2. 恰当使用一些修辞（这个比较高阶）；
-3. 从宏观处检查文稿的结构。
+3. 从宏观检查文稿的结构。
+
+
+
+# 参考范文：
+
+原稿：https://github.com/kiaorahao/awesome_tools/blob/master/20190303_cognitive_scale_launch_yangzhiping.md
+
+修改稿：https://github.com/kiaorahao/awesome_tools/issues/4
+
+发布稿：https://mp.weixin.qq.com/s/rYTyRYqQFnzk4UmaMPuoJg
 
 
 
