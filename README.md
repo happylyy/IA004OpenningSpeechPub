@@ -23,7 +23,7 @@
 ## [第二轮 互相校对](https://github.com/happylyy/IA004OpenningSpeechPub/tree/master/%E7%AC%AC%E4%B8%80%E8%BD%AE)
 
 
-### 互相校对：
+### 任务分配：
 
 稿件1 对套利的套利：七重信息分析	@王梦浩
 
