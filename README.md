@@ -20,7 +20,7 @@
 
 
 
-## [第二轮 互相校对](https://github.com/happylyy/IA004OpenningSpeechPub/tree/master/%E7%AC%AC%E4%B8%80%E8%BD%AE)
+## [第二轮 互相校对](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%AC%AC%E4%BA%8C%E8%BD%AE/readme.md)
 
 
 ### 任务分配：
