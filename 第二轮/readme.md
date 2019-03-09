@@ -11,6 +11,16 @@
 2. 恰当使用一些修辞（这个比较高阶）；
 3. 从宏观检查文稿的结构。
 
+# 参考资料
+
+第一段语音：
+https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SAT8e0c561c224e408d92f166416118e868
+
+第二段语音：
+https://shareaudio.iflyrec.com/appShare/exampleShare.html?audioId=SATea22e3f8b69647c7971ff1fae924543d
+
+现场发言记录：
+https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/chat.txt
 
 
 # 参考范文：
