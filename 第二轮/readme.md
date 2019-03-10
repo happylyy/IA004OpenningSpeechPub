@@ -9,7 +9,9 @@
 # 参考范文：
 
 原稿：https://github.com/kiaorahao/awesome_tools/blob/master/20190303_cognitive_scale_launch_yangzhiping.md
+
 发布稿：https://mp.weixin.qq.com/s/rYTyRYqQFnzk4UmaMPuoJg
+
 整理心得：https://github.com/kiaorahao/awesome_tools/issues/4
 
 
