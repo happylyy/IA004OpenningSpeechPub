@@ -7,12 +7,16 @@
 - 用写匠检查错别字
 
 # 参考范文：
+皓同学整理的“焦虑时代的反焦虑”
 
 原稿：https://github.com/kiaorahao/awesome_tools/blob/master/20190303_cognitive_scale_launch_yangzhiping.md
 
 发布稿：https://mp.weixin.qq.com/s/rYTyRYqQFnzk4UmaMPuoJg
 
 整理心得：https://github.com/kiaorahao/awesome_tools/issues/4
+
+第一轮迭代的优秀范例：
+[生活无处不套利.md](https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/%E7%AC%AC%E4%B8%80%E8%BD%AE/%E8%AE%B2%E7%A8%BF2%20%E7%94%9F%E6%B4%BB%E6%97%A0%E5%A4%84%E4%B8%8D%E5%A5%97%E5%88%A9.md)
 
 
 ## 个人目标
