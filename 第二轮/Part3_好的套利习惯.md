@@ -46,7 +46,7 @@
 
 
 # Changelog
-    V0.1-20190307：created by xxx
-    V0.2-20190104：revised by xxx
+    V0.1-20190307：created by victor
+    V0.2-20190310：revised by victor
 
 
