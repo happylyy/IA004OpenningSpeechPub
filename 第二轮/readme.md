@@ -52,3 +52,6 @@ https://github.com/happylyy/IA004OpenningSpeechPub/blob/master/chat.txt
 
 # DeadLine
 20190310 10:42
+
+delay
+20190313 10:00
